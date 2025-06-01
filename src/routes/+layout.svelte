@@ -31,6 +31,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/attendees/create">Teilnahme erfassen</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">Über</a>
+        </li>
       </ul>
     </div>
   </div>
